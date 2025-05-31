@@ -4,7 +4,7 @@ let products = [];
 // Function to fetch products from JSON file
 async function fetchProducts() {
     try {
-        const response = await fetch('../products.json');
+        const response = await fetch('js/products.json');
         const data = await response.json();
         products = data.products;
         return products;
