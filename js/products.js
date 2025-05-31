@@ -4,12 +4,11 @@ let products = [];
 // Function to fetch products from JSON file
 async function fetchProducts() {
     try {
-        const response = await fetch('js/products.json');
+        const response = await fetch('products.json');
         const data = await response.json();
-        products = data.products;
-        return products;
+        return data.products;
     } catch (error) {
-        console.error('Error loading products:', error);
+        console.error('Error fetching products:', error);
         return [];
     }
 }
