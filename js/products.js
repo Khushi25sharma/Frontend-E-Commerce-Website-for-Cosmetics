@@ -6,9 +6,11 @@ async function fetchProducts() {
     try {
         const response = await fetch('products.json');
         const data = await response.json();
-        return data.products;
+        products = data.products;
+        return products;
     } catch (error) {
         console.error('Error fetching products:', error);
+        products = [];
         return [];
     }
 }
