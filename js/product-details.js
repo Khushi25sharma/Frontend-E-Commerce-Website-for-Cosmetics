@@ -14,6 +14,8 @@ async function initProductDetails() {
 
     // Load products and find the requested product
     await fetchProducts();
+    console.log('Products after fetch:', products);
+    console.log('Looking for productId:', productId);
     const product = getProductById(productId);
 
     if (!product) {
