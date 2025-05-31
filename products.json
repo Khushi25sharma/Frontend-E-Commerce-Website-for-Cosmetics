@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Hydrating Face Cream",
             "price": 29.99,
-            "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=500&auto=format",
+            "image": "images/pexels-alesiakozik-7796694.jpg",
             "description": "A deeply hydrating face cream that nourishes and moisturizes your skin. Contains natural ingredients like hyaluronic acid and vitamin E.",
             "category": "Skincare"
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "name": "Matte Lipstick",
             "price": 19.99,
-            "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=500&auto=format",
+            "image": "images/pexels-vitalyagorbachev-26927317.jpg",
             "description": "Long-lasting matte lipstick with rich pigmentation. Available in various shades to complement any skin tone.",
             "category": "Makeup"
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "name": "Natural Mascara",
             "price": 24.99,
-            "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500&auto=format",
+            "image": "images/pexels-mart-production-7290712.jpg",
             "description": "Volumizing mascara with natural ingredients. Adds length and volume to your lashes without clumping.",
             "category": "Makeup"
         },
@@ -28,7 +28,7 @@
             "id": 4,
             "name": "Facial Cleanser",
             "price": 22.99,
-            "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=500&auto=format",
+            "image": "images/pexels-cottonbro-4154194.jpg",
             "description": "Gentle facial cleanser that removes impurities while maintaining your skin's natural moisture balance.",
             "category": "Skincare"
         },
@@ -36,7 +36,7 @@
             "id": 5,
             "name": "Eyeshadow Palette",
             "price": 39.99,
-            "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=500&auto=format",
+            "image": "images/pexels-tamina-23513560-6662825.jpg",
             "description": "Professional eyeshadow palette with 12 highly pigmented shades. Perfect for creating both natural and dramatic looks.",
             "category": "Makeup"
         },
@@ -44,7 +44,7 @@
             "id": 6,
             "name": "Facial Toner",
             "price": 18.99,
-            "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=500&auto=format",
+            "image": "images/pexels-mich-graphics-420890924-15421844.jpg",
             "description": "Refreshing facial toner that balances pH levels and prepares your skin for the next steps in your skincare routine.",
             "category": "Skincare"
         },
@@ -52,7 +52,7 @@
             "id": 7,
             "name": "Blush Palette",
             "price": 34.99,
-            "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500&auto=format",
+            "image": "images/pexels-alena-chuyankova-280716561-13002987.jpg",
             "description": "Versatile blush palette featuring 6 complementary shades. Buildable formula for a natural to dramatic flush of color.",
             "category": "Makeup"
         },
@@ -60,7 +60,7 @@
             "id": 8,
             "name": "Vitamin C Serum",
             "price": 45.99,
-            "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=500&auto=format",
+            "image": "images/dylan-calluy-DhuveHL8b_U-unsplash.jpg",
             "description": "Brightening vitamin C serum that helps reduce dark spots and evens skin tone. Contains 20% vitamin C and hyaluronic acid.",
             "category": "Skincare"
         }
